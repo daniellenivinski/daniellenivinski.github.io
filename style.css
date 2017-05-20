@@ -1,0 +1,31 @@
+.red{
+	color: red;
+}
+
+.blue{
+	color: blue;
+}
+
+.box{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	height: 200px;
+	width: 200px;
+	background-color: aqua;
+}
+
+h1{
+	font-family: Helvetica;
+}
+
+p{
+	font-family: Helvetica;
+	color: white;
+}
+
+body{
+	background-color: aqua;
+}
+
